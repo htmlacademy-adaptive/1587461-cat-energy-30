@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Marina Stebunova](https://up.htmlacademy.ru/adaptive/30/user/1587461).
-* Наставник: `Anna Lisenenkova https://htmlacademy.ru/profile/ankhena `.
+* Наставник: [Anna Lisenenkova](https://htmlacademy.ru/profile/ankhena).
 
 ---
 
